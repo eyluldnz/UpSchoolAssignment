@@ -1,6 +1,6 @@
 # UpScoolAssignmet1
 
-##Hello to everyone. ##
+## Hello to everyone.
 
 **You can find my first assignment here at the Frontend Developer Bootcamp, which I continued with UpSchool.
 The subject of the assignment was to contact the creator designers and clone the pages they prepared using HTML CSS and Bootsrapt.
