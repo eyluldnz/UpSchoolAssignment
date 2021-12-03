@@ -1,0 +1,69 @@
+.card{
+    border:0px solid !important;
+}
+.description{
+    padding: 63px !important;
+    font-size: 56px !important;
+    font-weight:600 !important;
+}
+.description-button{
+    margin-left: 60px;
+}
+.shadow-box{
+    box-shadow: 8px 10px rgba(119, 206, 241, 0.178)!important;
+  
+}
+.btn-primary{
+    background-color: midnightblue !important;
+}
+.community-description{
+    margin-left: 190px !important;
+    margin-top: 90px !important;
+}
+.community-content{
+    padding-left:12rem!important
+}
+
+.navbar-nav>.nav-link{
+    color: rgb(74, 75, 80);
+    margin-left: 40px;
+    font-weight: 600;
+}
+.navbar-brand{
+    color: rgb(74, 75, 80);
+    font-weight: 600;
+    font-size: 25px !important;
+}
+
+.large-button{
+    padding: 9px 35px !important;
+}
+.nav-link.active{
+    color:#2694f3;
+}
+
+.size-card{
+    width: 165px !important; 
+    height: 145px !important;
+    margin-left: 29%;
+}
+.size-comment-photo{
+    width:65% !important; 
+    height: 65% !important;
+    margin-left: 29%;
+    border:1px solid white;
+    border-radius: 50%;
+}
+
+#emailInput{
+border:none;
+}
+.social-media-buttons{
+    border-radius:50px;
+    padding-bottom: 5px;
+    border: none;
+}
+.adress-placement{
+    display:flex !important;
+    justify-content:space-between !important;
+}
