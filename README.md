@@ -10,4 +10,4 @@ I contacted _Shahriar Sohag_ and cloned this page he designed. You can find many
 
 [***Designer:***] (shahriarsohag2@gmail.com)
 
-![alt text](https://github.com/eyluldnz/UpScoolAssiggnment/page.gif?raw=true)
+![alt text](https://github.com/eyluldnz/UpScoolAssignment/blob/master/page.gif)
