@@ -9,3 +9,5 @@ I contacted _Shahriar Sohag_ and cloned this page he designed. You can find many
 [***Link of the Design:***] (https://dribbble.com/shots/15534434-Digital-agancy-landing-page)
 
 [***Designer:***] (shahriarsohag2@gmail.com)
+
+![alt text](https://github.com/eyluldnz/UpScoolAssiggnment/blob/master/page.gif?raw=true)****
